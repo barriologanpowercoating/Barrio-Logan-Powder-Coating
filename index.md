@@ -1,3 +1,12 @@
-# My Blog
+# Barrio Logan Powder Coating
 
-This is my first blog post about powder coating.
+Welcome to our blog.
+
+## Our Services
+- Powder Coating
+- Sandblasting
+- Cerakote
+
+## Latest Blog
+
+- [What is Powder Coating](blog1.md)
